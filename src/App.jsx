@@ -4,7 +4,7 @@ import doodle from './assets/doodle items.png';
 import Group from './assets/Group 2346.png';
 import Vector from './assets/Vector 187.png';
 import Group62 from './assets/Group 62.png' ;
-import Projects from './assets/Projects page.png';
+import Projects from './assets/Projects Page.png';
 import Group2372 from './assets/Group 2372.png';
 import Vector188 from './assets/Vector 188.png';
 import Frame28 from './assets/Frame 28.png';
